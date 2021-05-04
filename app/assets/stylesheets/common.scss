@@ -1,0 +1,33 @@
+header {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 30px;
+    background-color: rgb(241, 240, 166);
+    border-radius: 10px;
+    border-bottom: 30px solid rgb(255, 196, 0);
+  }
+
+  footer{
+    width: 100%;
+    padding: 15px;
+    margin-top: 30px;
+    background-color: rgb(241, 240, 166);
+    border-radius: 10px;
+    border-top: 30px solid rgb(255, 196, 0);
+  }
+
+
+table th {
+    background-color: rgb(255, 196, 0);
+    padding: 10px 20px;
+}
+
+table td {
+    background-color: #fdf4e5;
+    padding: 10px 20px;
+}
+
+.notice {
+    background-color: #ccf;
+    padding: 5px;
+}
